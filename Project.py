@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May  1 19:00:40 2018
-
-@author: Milind-PC
-"""
+#Author: Manas Anand Kulkarni
 # Importing the libraries
 import numpy as np
 import matplotlib.pyplot as plt
